@@ -1,6 +1,7 @@
 # Digital-Marketing
 Let's Help Everyone Who is Learning Digital Marketing To Get Useful Resources to Enhance There Skills.
 According to me, you must get knowledge of these topics under digital marketing.
+
 # 1. Website / Page Marketing
 
 - Search Engine Optimization
@@ -58,7 +59,17 @@ According to me, you must get knowledge of these topics under digital marketing.
 - Start as a Freelancer
 
 # Useful Resources, Websites & Tools:
-Check this File : [Useful-Tools-N-Webs](/Useful-Tools-N-Webs.md/)
+## Colour Patterns :
+Coolors : https://coolors.co/
+
+## Seo Audit & Reporting Tool :
+SEOptimer : https://www.seoptimer.com/
+
+## Info About Web Performance :
+SpyFu : https://www.spyfu.com/
+
+## Free keyword Analytics :
+Ubersuggest : https://app.neilpatel.com/
 
 
 *If you have knowledge of these topics then you can get a job in any company easily. You cannot get enough knowledge by doing a course in digital marketing.*
