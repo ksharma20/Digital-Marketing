@@ -58,7 +58,7 @@ According to me, you must get knowledge of these topics under digital marketing.
 - Start as a Freelancer
 
 # Useful Resources, Websites & Tools:
-Check this File : [Useful-Tools-N-Webs](/Useful-Tools-N-Webs/)
+Check this File : [Useful-Tools-N-Webs](/Useful-Tools-N-Webs.md/)
 
 
 *If you have knowledge of these topics then you can get a job in any company easily. You cannot get enough knowledge by doing a course in digital marketing.*
