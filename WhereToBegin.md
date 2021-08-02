@@ -58,7 +58,12 @@ Demand generation tools are banner advertising, video advertising, online public
 Many entrepreneurs believe that the internet is a magic button; however, it is a standard business process to continually advance, improve your content and website, improve traffic and your decision-making funnel. You need to work to make these things better. Remember that these tools will allow you to start your online promotion properly.
 
 
+# Next Part : [Competitive Analysis](/CompetitiveAnalysis) 
+After Completing this Part, Now you have very well proficient knowledge of
+*How to Stand in Market !*
+
+For Next part that is [Competitive Analysis](/CompetitiveAnalysis) -> [Click Here](/CompetitiveAnalysis) to Read further.
 
 
-# Support 
-## We you wanna add or Impove any Point, then Don't Hesitate and feel free to add it
+# Support & Improve
+If you wanna add or Impove any Point, then Don't Hesitate and feel free to Improve it.
